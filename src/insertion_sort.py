@@ -27,7 +27,7 @@ def measure_insertion_sort(arr):
     start_time = time.time()
     metrics = insertion_sort(arr)
     end_time = time.time()
-    execution_time = (end_time - start_time) * 1000  # Tempo em milissegundos
+    execution_time = (end_time - start_time) * 1000 
     return execution_time, metrics.comparisons, metrics.swaps
 
 def generate_list(size, distribution):
