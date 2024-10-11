@@ -1,4 +1,5 @@
 # Análise Empírica de Algoritmos de Ordenação
+Ester Arraiz De Matos, Victor Emanuel Da Silva Campelo e Laurinda Nhanga Mona
 
 Este repositório contém o código e o relatório para o trabalho de análise empírica de algoritmos de ordenação, desenvolvido para o curso de Ciência da Computação da UFT.
 
